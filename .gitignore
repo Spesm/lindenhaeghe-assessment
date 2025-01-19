@@ -1,4 +1,9 @@
 
+###> environment files ###
+/.env
+/.env.dev
+###< environment files ###
+
 ###> symfony/framework-bundle ###
 /.env.local
 /.env.local.php
